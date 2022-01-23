@@ -1,0 +1,23 @@
+/* Style sheet for coding activity page */
+
+/* This is the style for the background of the page */
+body {
+    padding-left: 120px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background-color: #CF1C44;
+}
+            
+/* Style for the background and placement of the main body text container*/
+#container {
+    width: 75%;
+    padding: 20px;
+    background-color: #D8C6B8
+}
+            
+/* Style for the page header and sub-headers */
+.title {
+    font-family: Goudy Old Style;
+    font-weight: bold;
+    color: #543136;
+}
